@@ -36,7 +36,7 @@ Um projeto simples em **HTML, CSS e JavaScript** que gera frases motivacionais a
 ## ▶️ Como executar  
 1. Clone o repositório:  
    ```bash
-   git clone https://github.com/SeuUsuario/victorhferreira02.git
+    git clone https://github.com/victorhferreira02/FrasesMotivacionais.git
 2. Abra o arquivo index.html no navegador.
 
 
