@@ -21,7 +21,7 @@ const frases = [
     "Cada esforço conta na sua evolução",
     "Você só perde quando desiste",
 ]
-const numale = Math.floor(Math.random() * 21);
+const numale = Math.floor(Math.random() * 20);
 const frase = frases[numale]
 
 document.getElementById('frase').innerHTML = frase
